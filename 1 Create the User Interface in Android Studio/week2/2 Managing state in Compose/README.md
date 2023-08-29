@@ -4,7 +4,7 @@ Overview of the Application looks like this:
 <p>
 (Composable Preview)
 <br>
-<img src="https://github.com/stym-rj/CSE224-Fundamentals-of-Android/assets/62481122/b3cb0f63-d320-4486-bf8e-af96cefa0788" width="250" height="500">
+<img src="https://github.com/stym-rj/CSE224-Fundamentals-of-Android/assets/62481122/b3cb0f63-d320-4486-bf8e-af96cefa0788" width="250" height="380">
 </p>
 
 (Initial App Preview)
